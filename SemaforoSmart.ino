@@ -86,7 +86,7 @@ void inputSense() //Entrada dos Sensores
 {
    
 }
-/*
+
 void Learning()   //Definição da prioridade
 {
   for(int i=1; i <= 24; i++){ //Faz a varredura do dia e hora atual para pegar a variável de frequência
@@ -97,7 +97,7 @@ void Learning()   //Definição da prioridade
       }
     }
   }
-}*/
+}
 
 void setup()
 {
