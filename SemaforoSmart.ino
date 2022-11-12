@@ -99,6 +99,18 @@ void Learning()   //Definição da prioridade
   }
 }
 
+void Learning()   //Definição da prioridade
+{
+  for(int i=1; i <= 24; i++){ //Faz a varredura do dia e hora atual para pegar a variável de frequência
+    for(int j=1; j <= 7; j++){
+      if(hora == data[i][0]){
+        if(dia == data[0][j]{
+          
+      }
+    }
+  }
+}           
+           
 void setup()
 {
   ConfigPlaca();
