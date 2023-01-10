@@ -8,4 +8,4 @@ O algoritmo é capaz de definir o tempo de abertura e fechamento de cada semáfo
 
 Circuito Eletrônico:
 
-![Circuito](https://user-images.githubusercontent.com/116441631/211627952-aec72aee-b4f7-4966-827a-4d32aa21bd06.png)
+![Circuito](https://user-images.githubusercontent.com/116441631/211628587-f3a9e023-8797-45bd-a91d-70c35e65fc37.jpg)
