@@ -9,3 +9,7 @@ Projeto desenvolvido para a unidade curricular de Microcontroladores e Microproc
 Circuito Eletrônico:
 
 ![Circuito](https://user-images.githubusercontent.com/116441631/211628587-f3a9e023-8797-45bd-a91d-70c35e65fc37.jpg)
+
+link da simulação:
+
+https://wokwi.com/projects/350777333793161812
