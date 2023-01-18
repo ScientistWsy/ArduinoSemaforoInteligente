@@ -10,6 +10,8 @@
 
 RTC_DS1307 RTC;
 
+//Definindo os pinos dos sensores Ultrassonicos
+
 #define PIN_TRIG_A 3
 #define PIN_ECHO_A 2
 
