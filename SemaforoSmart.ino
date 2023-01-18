@@ -6,7 +6,7 @@
 
 // Bibliotéca para o RTC:
 
-#include <RTClib.h>
+#include <RTClib.h> //Incuido Bibliotéca do RTC.
 
 RTC_DS1307 RTC;
 
