@@ -1,4 +1,4 @@
-# Projeto de Microcontroladores e Microprocessadores.
+# Projeto de Microcontroladores e Microprocessadores
 
 Semáforo Inteligente
 
