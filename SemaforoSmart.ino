@@ -146,7 +146,7 @@ void Controle()   //Função que define a lógica do semaforo
 
     referencia = (referencia<0)?0:referencia;
   }
-
+  
   dados[hora][dia] = referencia;
 }
 
@@ -261,5 +261,4 @@ void loop()
   Serial.println(delay_b);    //Apenas o monitoramento das variáveis durante os testes
 
   Serial.print("");
-  
 }
